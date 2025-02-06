@@ -3,3 +3,12 @@ p {
     font-size: 24px;
     color:aquamarine
 }
+
+footer {
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+} 
+
